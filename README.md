@@ -8,6 +8,6 @@ This repository contains filtered IPTV playlists. Each playlist has been filtere
 
 | co.m3u | 99 | 177 | [Download](https://raw.githubusercontent.com/cerels/cerels/filteredIptv/refs/heads/main/co.m3u) |
 
-| spa.m3u | 1089 | 2050 | [Download](https://raw.githubusercontent.com/cerels/cerels/filteredIptv/refs/heads/main/spa.m3u) |
+| spa.m3u | 1114 | 2050 | [Download](https://raw.githubusercontent.com/cerels/cerels/filteredIptv/refs/heads/main/spa.m3u) |
 
-| amer.m3u | 2782 | 4276 | [Download](https://raw.githubusercontent.com/cerels/cerels/filteredIptv/refs/heads/main/amer.m3u) |
+| amer.m3u | 2823 | 4276 | [Download](https://raw.githubusercontent.com/cerels/cerels/filteredIptv/refs/heads/main/amer.m3u) |
